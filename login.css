@@ -1,0 +1,19 @@
+#uname{
+    width:250px;
+    
+}
+#password{
+    width:250px;
+}
+.page-header{
+    text-align: center;
+}
+form{
+    margin-left: 400px;
+font-size: 18px;
+}
+body{
+    background-image: url("1.jpg");
+    font-style: italic;
+
+}

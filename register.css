@@ -1,0 +1,41 @@
+.page-header
+{
+    text-align: center;
+}
+
+.main{
+  text-align: center;
+    margin: auto;
+    
+}
+form{
+
+     /*text-align: center;*/
+  margin-left: 400px; 
+width:700px;
+}
+
+#register{
+
+    margin:auto;
+    color:white;
+    }
+body{
+    background-image: url("register.jpg");
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.9;
+}
+#Name{
+    width:250px;
+}
+#mid{
+    width:250px;
+
+}
+#email{
+    width: 250px;
+}
+#userName{width:250px;}
+#password{width:250px;}
