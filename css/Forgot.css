@@ -1,0 +1,36 @@
+@CHARSET "ISO-8859-1";
+form {
+  max-width: 300px;
+  margin: 10px auto;
+  padding: 10px 20px;
+  background: #66ccff;
+  border-radius: 8px;
+  text-align:center;
+}
+body{
+	
+	opacity: 0.8;
+    filter: alpha(opacity=50);
+    background-image:url(../images/sr5.jpg);
+background-repeat:no-repeat;
+background-size: cover;
+background-position: center center;
+background-attachment: fixed;
+
+}
+footer{
+    font-family: "Comic Sans MS", cursive, sans-serif;
+     position: fixed;
+    height: 50px;
+    bottom: 0;
+    width: 100%;
+    color: wheat;
+    background-color: black;
+    text-align: center;
+}
+fieldset {
+  margin-bottom: 30px;
+  border: none;}
+  #question{
+  width:100%;
+  }

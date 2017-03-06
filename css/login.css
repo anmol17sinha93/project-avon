@@ -1,0 +1,58 @@
+#uname{
+    width:250px;
+    
+}
+#password{
+    width:250px;
+}
+.page-header{
+    text-align: center;
+}
+form{
+    margin-left: 400px;
+font-size: 18px;
+}
+/*html{
+      background-image: url(../images/home1.jpg) no-repeat center center fixed; 
+    font-style: italic;
+         
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}*/
+body{
+    /*background: url(../images/ca2.jpg) no-repeat center center fixed ; */
+    background-image: url(../images/home1.jpg);
+    font-style: italic;
+background-repeat: no-repeat;
+  webkit-background-size: cover;
+  moz-background-size: cover;
+  o-background-size: cover;
+  background-size: cover;
+  
+}
+.page-header,.form-horizontal{
+    color:#00cc00;
+}
+footer{
+    font-family: "Comic Sans MS", cursive, sans-serif;
+     position: fixed;
+    height: 50px;
+    bottom: 0;
+    width: 100%;
+    color: wheat;
+    background-color: black;
+    text-align: center;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #337ab7;
+border-color: #2e6da4;}
+.btn-secondary{
+
+     color: #fff;
+    background-color: #337ab7;
+border-color: #2e6da4;
+    margin-left: 120px;
+}

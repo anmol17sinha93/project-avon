@@ -1,0 +1,33 @@
+
+@CHARSET "ISO-8859-1";
+.txt{
+font-size:30px;
+text-align:center;
+}
+body
+{
+background-image: url(..images/sr1.jpg);
+text-align:center;
+
+}
+footer{
+    opacity: 0.8;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+     position: fixed;
+    height: 50px;
+    bottom: 0;
+    width: 100%;
+    color: wheat;
+    background-color: black;
+    text-align: center;
+}
+.imgcontainer {
+    text-align: center;
+    margin: 2px 0 0 0;
+}
+@media screen and (min-width: 480px) {
+    form{
+
+        max-width: 480px;
+    }
+}
